@@ -29,7 +29,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.4_1.php">
     <configuration name="3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/3.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -38,8 +38,16 @@
       </CommandLine>
       <method v="2" />
     </configuration>
+    <configuration name="4_1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/4_1.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="4.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/4.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.4_1.php" />
+        <item itemvalue="PHP Script.4.php" />
         <item itemvalue="PHP Script.3.php" />
       </list>
     </recent_temporary>
@@ -57,6 +65,11 @@
       <workItem from="1606748010082" duration="48000" />
       <workItem from="1606749329483" duration="1062000" />
       <workItem from="1606750550719" duration="37000" />
+      <workItem from="1606850348967" duration="338000" />
+      <workItem from="1606850725360" duration="2205000" />
+      <workItem from="1606854061532" duration="292000" />
+      <workItem from="1606910250064" duration="3703000" />
+      <workItem from="1606914561825" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1606749672748</created>
@@ -98,26 +111,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606749602137" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1606747504269">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1606914372768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606747504269" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1606747504269">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606914372768" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1606914372768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606747504269" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1606747504269">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606914372768" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1606914372767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606747504269" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1606747504269">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606914372767" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1606914372768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606747504269" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1606742485435">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606914372768" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1606910275386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606742485435" />
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606910275386" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1606750573954">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
